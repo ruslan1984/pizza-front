@@ -16,13 +16,9 @@ module.exports = {
       "@": path.resolve(__dirname, 'src/'),
       "@admin": path.resolve(__dirname, 'src/modules/Admin'),
       "@auth": path.resolve(__dirname, 'src/modules/Auth'),
-      "@grammar": path.resolve(__dirname, 'src/modules/Admin/Grammar'),
-      "@orph": path.resolve(__dirname, 'src/modules/Admin/Orphography'),
       "@store": path.resolve(__dirname, 'src/store'),
-
       "@components": path.resolve(__dirname, 'src/components'),
       "@modules": path.resolve(__dirname, 'src/modules'),
-      "@pages": path.resolve(__dirname, 'src/pages'),
       types: path.resolve(__dirname, "src/types"),
       components: path.resolve(__dirname, "src"),
     },
